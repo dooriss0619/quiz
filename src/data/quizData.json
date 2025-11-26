@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "category": "시작하기",
+    "question": "웹 페이지를 만들 때, 문서의 뼈대와 내용을 구성하는 데 사용되는 마크업 언어입니다. 제목, 단락, 이미지, 링크 등 웹 페이지의 모든 요소를 정의하며, <strong>모든 웹 개발의 시작점이라고 할 수 있는 이 언어는 무엇일까요?</strong>",
+    "options": ["CSS", "JavaScript", "HTML", "Python"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "category": "시작하기",
+    "question": "HTML로 만들어진 웹 페이지의 글꼴, 색상, 레이아웃, 여백 등 모든 시각적 스타일을 정의하여 <strong>사용자가 보기에 아름답고 직관적인 디자인을 가능하게 하는 스타일 시트 언어는 무엇일까요?</strong> 외부 파일로 분리하여 효율적인 관리가 가능합니다.",
+    "options": ["JavaScript", "PHP", "CSS", "SQL"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "category": "시작하기",
+    "question": "웹 페이지 내에서 사용자와의 상호작용, 애니메이션 효과, 데이터 처리, 비동기 통신 등 동적인 기능을 구현하여 <strong>웹을 더욱 풍성하고 인터랙티브하게 만드는 데 사용되는 프로그래밍 언어는 무엇일까요?</strong> 브라우저에서 직접 실행되는 클라이언트 측 스크립트 언어로 가장 널리 쓰입니다.",
+    "options": ["Java", "C++", "Ruby", "JavaScript"],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "category": "시작하기",
+    "question": "웹 문서를 트리 구조의 객체 모델로 표현하여, JavaScript 같은 프로그래밍 언어를 통해 <strong>HTML 및 XML 문서의 요소(element)와 내용을 추가, 삭제, 수정할 수 있도록 해주는 인터페이스는 무엇일까요?</strong> 이를 통해 웹 페이지의 내용을 동적으로 변경할 수 있습니다.",
+    "options": ["BOM (Browser Object Model)", "DOM (Document Object Model)", "XML (Extensible Markup Language)", "JSON (JavaScript Object Notation)"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "category": "시작하기",
+    "question": "대규모 웹 애플리케이션 구축을 위해 컴포넌트 기반 아키텍처를 제공하며, 가상 DOM(Virtual DOM)을 활용하여 <strong>효율적인 UI 렌더링을 지원하는 프론트엔드 자바스크립트 라이브러리/프레임워크는 무엇일까요?</strong>",
+    "options": ["Angular", "Vue.js", "jQuery", "React (or React.js)"],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "category": "시작하기",
+    "question": "<strong>웹사이트의 로딩 성능을 측정하는 중요한 지표 중 하나로, 사용자가 페이지를 방문했을 때 화면에 콘텐츠가 처음으로 나타나는 시간을 의미합니다.</strong> 이 시간이 짧을수록 사용자 경험이 개선되는데, 이는 무엇일까요?",
+    "options": ["TTFB (Time To First Byte)", "FCP (First Contentful Paint)", "TBT (Total Blocking Time)", "LCP (Largest Contentful Paint)"],
+    "answer": 3
+  }
+]
